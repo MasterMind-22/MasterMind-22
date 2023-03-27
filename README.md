@@ -9,7 +9,7 @@
   <br><br>
 # 📊 GitHub Stats:
 [![Yonadry's GitHub stats](https://github-readme-stats.vercel.app/api?username=MasterMind-22)](https://github.com/MasterMind-22/github-readme-stats)
-
+![](https://github-readme-streak-stats.herokuapp.com/?user=MasterMind-22&theme=tokyonight&hide_border=false)<br/>
 
 
 <br><br><br>
